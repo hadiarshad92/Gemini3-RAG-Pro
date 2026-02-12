@@ -86,6 +86,6 @@ Open three separate terminal windows:
 ### **3. Real-time Debugging & Error Logs**
 
 ![Traceback Analysis](assets/ingest1.png)
-!(assets/ingest2.png)
+![](assets/ingest2.png)
 
-!(assets/ingest3.png)
+![](assets/ingest3.png)
