@@ -15,7 +15,6 @@ uploads/
 # Ignore all screenshot images
 *.jpg
 *.jpeg
-*.png
 !assets/*.png
 
 # Ignore the vector database storage (optional but recommended)
