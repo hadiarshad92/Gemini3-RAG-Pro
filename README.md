@@ -76,17 +76,16 @@ Open three separate terminal windows:
 
 ### **1. Functional Streamlit Interface**
 
-![Application Interface](assets/Screenshot 2026-02-12 at 5.44.23 PM.png)
+![Application Interface](assets/interface.png)
 
 ### **2. Query & AI Inference**
 
-![Successful Run](assets/Screenshot 2026-02-12 at 5.46.06 PM.png)
+![Successful Run](assets/answer.png)
 
 
 ### **3. Real-time Debugging & Error Logs**
 
-![Traceback Analysis](assets/Screenshot 2026-02-12 at 5.44.49 PM.png)
+![Traceback Analysis](assets/ingest1.png)
+(assets/ingest2.png)
 
-(assets/Screenshot 2026-02-12 at 5.46.30 PM.png)
-
-(assets/Screenshot 2026-02-12 at 5.58.59 PM.png)
+(assets/ingest3.png)
