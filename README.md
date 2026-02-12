@@ -80,7 +80,7 @@ Open three separate terminal windows:
 
 ### **2. Query & AI Inference**
 
-![Successful Run ](assets/Screenshot 2026-02-12 at 5.46.06 PM.png)
+![Successful Run](assets/Screenshot 2026-02-12 at 5.46.06 PM.png)
 
 
 ### **3. Real-time Debugging & Error Logs**
