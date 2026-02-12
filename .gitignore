@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Ignore the uploads directory
+uploads/
+
+# Ignore all screenshot images
+*.jpg
+*.jpeg
+*.png
+!assets/*.png
+
+# Ignore the vector database storage (optional but recommended)
+qdrant_storage/
